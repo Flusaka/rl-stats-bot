@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/Flusaka/rl-stats-bot#readme",
   "dependencies": {
-    "discord.js": "^11.4.2"
+    "discord.js": "^11.4.2",
+    "webshot": "^0.18.0"
   }
 }
