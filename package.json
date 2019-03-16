@@ -1,0 +1,28 @@
+{
+  "name": "rl-stats-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that displays stats from https://rocketleague.tracker.network/ using webshot.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flusaka/rl-stats-bot.git"
+  },
+  "keywords": [
+    "Rocket",
+    "League",
+    "RL",
+    "Stats"
+  ],
+  "author": "Neil Armitage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flusaka/rl-stats-bot/issues"
+  },
+  "homepage": "https://github.com/Flusaka/rl-stats-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
