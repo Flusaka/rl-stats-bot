@@ -1,7 +1,8 @@
 const Discord = require('discord.js');
+const http = require('http');
 const client = new Discord.Client();
-const token = 
 
+http.createServer().listen(process.env.PORT);
 
 client.on("message", (message) => {
     if(message.author.bot) {
